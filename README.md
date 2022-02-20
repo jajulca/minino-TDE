@@ -1,14 +1,21 @@
 # minino-TDE
 ISO modificada del sistema operativo Minino Queiles 3.1 (minino.galpon.org) para su uso en dispositivos antiguos. #TDE
 
-## Enlace de la última ISO: http://bit.ly/2KOpodK 
+## Enlace de la última ISO rolling: https://bit.ly/3bjdD8R
 (enlace permanente aunque se actualice la ISO)
 
-## [Instrucciones de instalación](https://github.com/aosucas499/minino-TDE/wiki/Instalaci%C3%B3n)
+![](https://user-images.githubusercontent.com/72696244/120541114-c253cc00-c3e9-11eb-932f-02dc697c117c.png)
 
-### Última fecha de generación de ISO: 7 enero 2021
+ [Creación USB live](https://github.com/aosucas499/minino-TDE/wiki/1.-Creaci%C3%B3n-USB-Live)
+ 
+ [Instrucciones de instalación](https://github.com/aosucas499/minino-TDE/wiki/2.-Instalaci%C3%B3n)
+ 
 
- +  Aplicación para añadir mejoras "customize-minino" (acceso ssh, navegación privada,autologin...)
+### Última fecha de generación de ISO: 31 mayo 2021
+
+ +  Sistema ***"actuactualizable"*** en cada inicio
+
+ +  Aplicación ***"actuactualizable"*** para añadir mejoras "customize-minino" (acceso ssh, navegación privada,autologin, control presencia, HGR Sigala...)
  
  +  Corrección de hora en cada inicio 
  
@@ -28,10 +35,15 @@ ISO modificada del sistema operativo Minino Queiles 3.1 (minino.galpon.org) para
 
  +  Conexión automática a la red Andared
 
- 
- 
- ## Filtros de tareas
- 
- Para simplificar la búsqueda de tareas en el proyecto se recomiendan los siguientes filtros de contenido
- 
- + [Trabajo pendiente](https://github.com/aosucas499/minino-TDE/issues?q=is%3Aissue+is%3Aopen+-label%3AIDEA+-label%3ADUDA)
+### FAQs 
+[Enlace](https://github.com/aosucas499/minino-TDE/wiki/FAQs) (Recuperar panel inferior y actualizar desde una versión anterior sin instalar nueva ISO)
+
+
+Si este proyecto te ayuda, puedes invitarme a un café.
+
+
+If this project helps you,  you can give me a cup of coffee .
+
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?business=FUMT27MVTRTHJ&no_recurring=0&item_name=Proyectos+TIC+Andaluc%C3%ADa&currency_code=EUR)
+
